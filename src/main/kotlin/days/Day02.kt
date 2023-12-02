@@ -2,13 +2,10 @@ package days
 
 class Day02 : Day(2) {
     override fun part1() : Any {
-
-
         return calcGames(inputList, 1)
     }
 
     override fun part2() : Any {
-
         return calcGames(inputList, 2)
     }
 }
